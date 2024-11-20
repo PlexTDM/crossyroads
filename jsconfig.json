@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "https://cdn.skypack.dev/*": ["./node_modules/@types/*"]
+        }
+    }
+}
